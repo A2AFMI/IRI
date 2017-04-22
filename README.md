@@ -1,6 +1,6 @@
-# [X7_BOT](https://telegram.me/BOTHU)
+# [IRI_BOT](https://telegram.me/A_2AFMI)
 
-**An advanced and powerful administration bot based on NEW TG-CLI
+**An advanced and powerful administratioAn bot based on NEW TG-CLI
 
 
 * * *
@@ -17,11 +17,11 @@
 
 # التنصيب
 
-git clone https://github.com/x7h/x7_bot.git
+git clone https://github.com/A2AFMI/IRI.git
 cd x7_bot
 chmod +x x7_bot.sh
-./x7_bot.sh install
-./x7_bot.sh 
+./IRI.sh install
+./IRI.sh 
  #عيد اخر كودين
 # Enter a phone number & confirmation code.
 
@@ -42,12 +42,9 @@ Then restart the bot.
 
 # Support and development
 
-More information [X7_BOT CHANNEL](https://telegram.me/joinchat/BOTHU)
+More information [IRI_BOT DEV](https://telegram.me/A_2AFMI)
 
 
 # Developers!
 
-[جوكر بغداد](https://github.com/X7H) ([Telegram](https://telegram.me/DEV_IRAQ1))
-### Our Telegram channel:
-
-[@BOTHU](https://telegram.me/BOTHU)
+[ABBAS PERSIAN](https://github.com/A2AFMI) ([Telegram](https://telegram.me/A_2AFMI)
