@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/x7_bot
+cd $HOME/IRI
 
 install() {
 	    cd tg
@@ -31,7 +31,7 @@ if [ ! -f ./tg/tgcli ]; then
     exit 1
 fi
    echo -e "\033[38;5;208m"
-   echo -e "     > BeyondTeam Source :D                        "
+   echo -e "     > AMSTeam Source :D                        "
    echo -e "                                              \033[0;00m"
    echo -e "\e[36m"
    ./tg/tgcli -s ./bot/bot.lua $@
@@ -67,7 +67,7 @@ fi
 #  --permanent-peer-ids                 use permanent peer ids
 #			#			#			#			#			#			#			#			#			#
 #Example To launch with second profile :
-# ./x7_bot.sh -p second-profile
+# ./IRI.sh -p second-profile
 
 #			  OR
 
